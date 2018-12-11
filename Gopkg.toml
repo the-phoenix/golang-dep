@@ -27,7 +27,8 @@
 
 [[constraint]]
   name = "github.com/dustin/go-humanize"
-  version = "1.0.0"
+#  version = "1.0.0"
+  revision = "0b19b17f90333e44518aa31bbf8126017960aee3"
 
 [prune]
   go-tests = true

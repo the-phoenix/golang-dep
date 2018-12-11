@@ -2,12 +2,11 @@
 
 
 [[projects]]
-  digest = "1:6f9339c912bbdda81302633ad7e99a28dfa5a639c864061f1929510a9a64aa74"
+  digest = "1:65ec08d5208d825da4371d73c59e55e32245000a9ee32d2d36cc0a97bf6aff30"
   name = "github.com/dustin/go-humanize"
   packages = ["."]
   pruneopts = "UT"
-  revision = "9f541cc9db5d55bce703bd99987c9d5cb8eea45e"
-  version = "v1.0.0"
+  revision = "0b19b17f90333e44518aa31bbf8126017960aee3"
 
 [solve-meta]
   analyzer-name = "dep"
