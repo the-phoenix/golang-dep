@@ -33,3 +33,7 @@
 [prune]
   go-tests = true
   unused-packages = true
+
+[[constraint]]
+  name = "github.com/leekchan/accounting"
+  version = "0.2.0"
